@@ -7,13 +7,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6740b0&center=true&vCenter=true&width=715&height=44&lines=IT%20Student;Building%20things,%20breaking%20things,%20fixing%20things%20" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 Got into tech after watching Tron as a kid, currently deep in C++ and DSA
 
-😄 &nbsp;Pronouns: **he/him**  
-🔭 &nbsp;I'm currently working on **Data structures implementations and open source projects**  
+ &nbsp;Pronouns: **he/him**  
+ &nbsp;I'm currently working on **Data structures implementations and open source projects**  
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -22,12 +22,12 @@ Got into tech after watching Tron as a kid, currently deep in C++ and DSA
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/thepratyushjha" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=thatshrike&show_icons=true&theme=tokyonight&title_color=6740b0&icon_color=6740b0&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=thatshrike&layout=compact&theme=tokyonight&title_color=6740b0&icon_color=6740b0&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
