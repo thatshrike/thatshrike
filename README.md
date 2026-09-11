@@ -27,12 +27,5 @@ Got into tech after watching Tron as a kid, currently deep in C++ and DSA
   <a href="https://linkedin.com/in/thepratyushjha" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=thatshrike&show_icons=true&theme=tokyonight&title_color=6740b0&icon_color=6740b0&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=thatshrike&layout=compact&theme=tokyonight&title_color=6740b0&icon_color=6740b0&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/thatshrike">thatshrike</a></i></p>
